@@ -42,4 +42,3 @@ def func2(a):
 #호출
 print(func(1))
 print(func2(2))
-print("test")
