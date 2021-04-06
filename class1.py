@@ -1,4 +1,4 @@
-# calss1.py
+# class1.py
 #클래스 정의
 class Person:
     #클래스에 소속된 멤버변수(주로 데이터를 공유) static키워드 추가
