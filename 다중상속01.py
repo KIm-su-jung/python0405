@@ -20,4 +20,3 @@ l = Liger()
 l.cry()
 print("내부에 상속 순서 튜플:{0}".format(Liger.__mro__))
 
-        
