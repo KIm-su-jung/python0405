@@ -30,4 +30,5 @@ if __name__ == "__main__":
     #창을 보여달라~~
     demoWindow.show()
     #지속적으로 실행(이벤트 루프)
-    app.exec_() 
+    app.exec_()
+    #add
