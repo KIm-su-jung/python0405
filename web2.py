@@ -30,3 +30,4 @@ for item in cartoons:
     f.write(title.strip() + "\n")
 
 f.close()
+print(add)
