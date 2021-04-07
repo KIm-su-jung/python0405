@@ -31,4 +31,3 @@ if __name__ == "__main__":
     demoWindow.show()
     #지속적으로 실행(이벤트 루프)
     app.exec_()
-    #change
